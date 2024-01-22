@@ -3,7 +3,9 @@
 before Oops we have procedural programming. Dividing programm into multiple functions. This type of programming is very simple and straiteforward
 SpagattiCode
 
-In OOps, we group the related variables and functions into a unit and object
+In OOps, 
+ It is a programming style based on the concet of objectrs.
+ we group the related variables and functions into a unit and object
 
 Variables = Properties = arguments = Nouns (adjectives)
 function = methods = Verbes (actions)
@@ -26,3 +28,6 @@ function = methods = Verbes (actions)
 
 ### Polymorphism (Many Forms)
  techniqe a entity can be used in many forms
+
+
+# functional programming?
